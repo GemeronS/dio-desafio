@@ -1,0 +1,4 @@
+- Estava meio enferrujado com alguma linguagens que já aprendi em 2019 e revolvi entrar no curso da DIO para revisar e aprender o que sei e aprender mais sobre.
+- Comecei o curso revisando e aprendendo mais sobre lógica de programação.
+- Depois iniciei meu aprendizado sobre o Git/GitHub, que foi algo que eu nunca tinha visto antes, foi tudo novo para mim.
+- Próximo passo é revisar HTML/CSS e aprender mais sobre.
